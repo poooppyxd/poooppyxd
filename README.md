@@ -1,6 +1,6 @@
 # Yo
 
-<img src="https://cdn.simpleicons.org/roblox" width="28" alt="Roblox"> : popitgirleieiza
+xD
 
 <!--
 **poooppyxd/poooppyxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
