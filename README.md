@@ -1,6 +1,6 @@
 # Yo
 
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white) : popitgirleieiza
+<img src="https://cdn.simpleicons.org/roblox" width="28" alt="Roblox"> : popitgirleieiza
 
 <!--
 **poooppyxd/poooppyxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
